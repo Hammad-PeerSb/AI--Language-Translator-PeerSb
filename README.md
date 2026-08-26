@@ -83,8 +83,7 @@ The application can be deployed easily using Streamlit Community Cloud by connec
 ![alt text](Dark_mode.png)
 
 ### 🔤 Translation
-
-! [alt text](translation_history.png)
+![alt text](translation_history.png)
 
  ---
 
