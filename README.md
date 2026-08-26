@@ -4,6 +4,13 @@
 
 A modern multilingual translation web app built with Python and Streamlit. It provides smart language detection, multiple translation engines, translation history, language swapping, download support, and a beautiful responsive interface.
 
+## 🌐 Live Demo
+
+🚀 **Try the AI Language Translator:**
+
+[👉 Open AI Language Translator](https://ai-language-translator-peersb723.streamlit.app/)
+
+
 ✨ Features
 
 - 🌍 23 Supported Languages
@@ -63,6 +70,21 @@ streamlit run app.py
 
 The application can be deployed easily using Streamlit Community Cloud by connecting the GitHub repository and selecting:
 
+ --- 
+## 📸 Screenshots
+
+### 🌐 Main Interface
+
+![alt text](Light_mode.png)
+
+
+### 🌙 Dark Mode
+
+![alt text](Dark_mode.png)
+
+### 🔤 Translation
+
+! [alt text](translation_history.png)
 
  ---
 
