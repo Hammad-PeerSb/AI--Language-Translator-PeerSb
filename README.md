@@ -45,16 +45,15 @@ AI-Language-Translator/
 ⚙️ Installation
 
 git clone [https://github.com/Hammad-PeerSb/AI--Language-Translator-PeerSb.git]
-cd AI-Language-Translator
+
 
 Create and activate a virtual environment:
 
-python -m venv .venv
-.venv\Scripts\activate
+
 
 Install dependencies:
 
-pip install -r requirements.txt
+
 
 ▶️ Run Locally
 
@@ -64,9 +63,8 @@ streamlit run app.py
 
 The application can be deployed easily using Streamlit Community Cloud by connecting the GitHub repository and selecting:
 
-Branch: main
-Main file: app.py
 
+ ---
 
 👨‍💻 Developer
 
